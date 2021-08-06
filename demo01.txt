@@ -1,1 +1,2 @@
 this is first git file master change one
+この行はギットハブで書いた
